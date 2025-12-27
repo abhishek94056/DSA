@@ -1,4 +1,4 @@
-package Basic_Operations;
+package B_Basic_Operations;
 
 public class F_Palindrome {
 	public static void main(String[] args) {

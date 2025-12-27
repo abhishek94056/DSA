@@ -1,4 +1,4 @@
-package Basic_Operations;
+package B_Basic_Operations;
 
 public class G_Armstrong {
 	public static void main(String[] args) {
