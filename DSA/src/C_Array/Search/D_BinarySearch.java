@@ -1,4 +1,4 @@
-package C_Array;
+package C_Array.Search;
 
 public class D_BinarySearch {
 	// Time complexity = O(log n)

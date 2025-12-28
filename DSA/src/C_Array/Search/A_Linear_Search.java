@@ -1,4 +1,4 @@
-package C_Array;
+package C_Array.Search;
 
 //Time complexity = O(n)
 public class A_Linear_Search {
